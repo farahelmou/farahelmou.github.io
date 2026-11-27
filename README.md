@@ -32,5 +32,4 @@
 
 - **Email :** [f.elmourabite2003@gmail.com](mailto:f.elmourabite2003@gmail.com)
 - **GitHub :** [github.com/farahelmou](https://github.com/farahelmou)
-- **Localisation :** Agadir, Maroc
 
