@@ -9,12 +9,6 @@
 
 Étudiante ingénieure en dernière année à l’**ENSA Agadir**, spécialisée en **Data Science, Big Data et Intelligence Artificielle**, passionnée par la conception de systèmes intelligents, de l’ingénierie des données au développement de solutions basées sur l’IA.
 
-### Domaines d'expertise :
-- **IA générative & LLM :** RAG de bout en bout, ChromaDB, Gemini, Agents IA, Embeddings, Recherche sémantique
-- **Deep Learning & Vision par ordinateur :** PyTorch, DenseNet, CBAM, Cross-Attention, YOLOv8, ByteTrack
-- **Data Engineering & Big Data :** Apache Spark, PySpark, Kafka, Flink, MinIO, DuckDB
-- **Backend & MLOps :** FastAPI, PostgreSQL, Docker, Docker Compose, MLflow, JWT / OAuth 2.0
-
 ---
 
 ## 🚀 Projets phares
